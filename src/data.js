@@ -86,11 +86,12 @@ export const projects = [
     image: null,
   },
   {
-    title: 'GEO App',
-    description: 'Clock in / clock out app based on on-site location.',
-    stack: 'React, Node.js',
-    github: '#',
+    title: 'Clockin (GEO App)',
+    description: 'Geofenced clock in / clock out app with a shift timesheet and weekly hours summary.',
+    stack: 'Next.js, Supabase, Geolocation API',
+    github: 'https://github.com/malakblm/clockin',
     image: null,
   },
 ]
+
 
